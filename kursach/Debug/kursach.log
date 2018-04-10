@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\marus\desktop\guap\3,5\kursach_kuritsin\docmanager_peredel\kursach\kursach\main.cpp(114): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\marus\desktop\guap\3,5\kursach_kuritsin\docmanager_peredel\kursach\kursach\zdanie.h(60): warning C4715: 'factory::Add': not all control paths return a value
+  kursach.vcxproj -> C:\Users\marus\Desktop\GUAP\3,5\Kursach_Kuritsin\docmanager_peredel\kursach\Debug\kursach.exe
+  kursach.vcxproj -> C:\Users\marus\Desktop\GUAP\3,5\Kursach_Kuritsin\docmanager_peredel\kursach\Debug\kursach.pdb (Full PDB)
