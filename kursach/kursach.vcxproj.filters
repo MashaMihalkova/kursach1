@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="factory.h">
+    <ClInclude Include="date.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="date.h">
+    <ClInclude Include="factory.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="zdanie.h">

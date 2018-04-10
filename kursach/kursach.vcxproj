@@ -143,8 +143,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="date.h" />
-    <ClInclude Include="factory.h" />
     <ClInclude Include="zdanie.h" />
+    <ClInclude Include="factory.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
