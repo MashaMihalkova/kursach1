@@ -1,9 +1,9 @@
 ﻿  main.cpp
-c:\users\marus\desktop\guap\3,5\kursach_kuritsin\docmanager_peredel\kursach\kursach\zdanie.h(99): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\marus\desktop\guap\3,5\kursach_kuritsin\docmanager_peredel\kursach\kursach\zdanie.h(76): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
-c:\users\marus\desktop\guap\3,5\kursach_kuritsin\docmanager_peredel\kursach\kursach\main.cpp(131): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+c:\users\marus\desktop\guap\3,5\kursach_kuritsin\docmanager_peredel\kursach\kursach\main.cpp(92): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
-c:\users\marus\desktop\guap\3,5\kursach_kuritsin\docmanager_peredel\kursach\kursach\factory.h(92): warning C4715: 'factory::Add_file': not all control paths return a value
-c:\users\marus\desktop\guap\3,5\kursach_kuritsin\docmanager_peredel\kursach\kursach\factory.h(105): warning C4715: 'factory::Add': not all control paths return a value
+c:\users\marus\desktop\guap\3,5\kursach_kuritsin\docmanager_peredel\kursach\kursach\factory.h(72): warning C4715: 'factory::Add': not all control paths return a value
+c:\users\marus\desktop\guap\3,5\kursach_kuritsin\docmanager_peredel\kursach\kursach\factory.h(61): warning C4715: 'factory::Add_file': not all control paths return a value
   kursach.vcxproj -> C:\Users\marus\Desktop\GUAP\3,5\Kursach_Kuritsin\docmanager_peredel\kursach\x64\Debug\kursach.exe
   kursach.vcxproj -> C:\Users\marus\Desktop\GUAP\3,5\Kursach_Kuritsin\docmanager_peredel\kursach\x64\Debug\kursach.pdb (Full PDB)
